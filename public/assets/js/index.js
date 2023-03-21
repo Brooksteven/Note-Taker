@@ -1,3 +1,4 @@
+//elements, const, gets, post 
 let noteTitle;
 let noteText;
 let saveNoteBtn;

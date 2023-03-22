@@ -20,4 +20,4 @@ app.use('/', htmlRoutes);
 // Server listening confirmation
 app.listen(PORT, function() {
     console.log(`Server is listening on PORT ${PORT}`);
-});
+})

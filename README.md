@@ -56,4 +56,4 @@ Notes Added:
   ## Questions?
   ### Reach me here: 
   [Brooklynn Stevenson](https://github.com/Brooksteven)  
-  Brooksteven54@gmail.com
+  Brooksteven580@gmail.com

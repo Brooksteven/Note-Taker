@@ -6,6 +6,8 @@ Deployed application: https://warm-atoll-06447.herokuapp.com/
 
   ## Table of Contents
   * [Description](#description)
+  * [User Story](#userstory)
+  * [Acceptance Criteria](#acceptancecriteria)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Questions?](#questions)
